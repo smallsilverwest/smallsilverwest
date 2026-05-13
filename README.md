@@ -1,7 +1,7 @@
 ### 📞 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/kelly-seo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/soeun-seo-190268322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soeun-seo-190268322)
 [![Email](https://img.shields.io/badge/kelly.seose@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kelly.seose@gmail.com)
 
 ---
